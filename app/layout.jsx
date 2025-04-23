@@ -1,3 +1,4 @@
+import './globals.css';
 export const metadata = {
   title: 'Cees de Controller',
   description: 'Grip op je financiën. Rust in je hoofd.',
